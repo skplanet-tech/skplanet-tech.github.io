@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://skplanet-tech.github.io/sitemap.xml
+Host: https://skplanet-tech.github.io

@@ -1,1 +1,0 @@
-# skplanet-tech.github.io
